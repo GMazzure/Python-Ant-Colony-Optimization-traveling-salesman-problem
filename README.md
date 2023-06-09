@@ -36,8 +36,11 @@
   
  
  Iteration 1:
-     ![Iteration1](https://github.com/GMazzure/Python-Ant-Colony-Optimization-traveling-salesman-problem/assets/135989764/2757af55-060d-40ae-81d5-45bc59000208)
- Iteration 11:
-     ![Iteration11](https://github.com/GMazzure/Python-Ant-Colony-Optimization-traveling-salesman-problem/assets/135989764/0a699052-2e95-43c8-bdf9-e3f1308ff4cd)
+     ![Iteration1](https://github.com/GMazzure/Python-Ant-Colony-Optimization-traveling-salesman-problem/assets/135989764/bec38b50-5f34-44f3-bd03-007fa246c927)
+
+
+ Iteration 20:
+     ![Iteration20](https://github.com/GMazzure/Python-Ant-Colony-Optimization-traveling-salesman-problem/assets/135989764/44175b0e-b7b2-4b52-a2a4-80997a83d313)
+
 
   
