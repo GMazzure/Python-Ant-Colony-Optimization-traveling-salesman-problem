@@ -33,3 +33,11 @@
   ```
     python3 main.py -l 1 -a 100
   ```
+  
+ 
+ Iteration 1:
+     ![Iteration1](https://github.com/GMazzure/Python-Ant-Colony-Optimization-traveling-salesman-problem/assets/135989764/2757af55-060d-40ae-81d5-45bc59000208)
+ Iteration 11:
+     ![Iteration11](https://github.com/GMazzure/Python-Ant-Colony-Optimization-traveling-salesman-problem/assets/135989764/0a699052-2e95-43c8-bdf9-e3f1308ff4cd)
+
+  
