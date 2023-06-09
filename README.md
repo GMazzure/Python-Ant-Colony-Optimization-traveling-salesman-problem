@@ -31,7 +31,7 @@
 
   Example running on Djibouti dataset with 100 ants
   ```
-    python3 main.py -l 1 -a 100
+    python3 main.py -l 1 -ants 100
   ```
   
  
