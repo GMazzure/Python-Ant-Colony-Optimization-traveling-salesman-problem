@@ -11,11 +11,11 @@
 ## Arguments:
 | Argument    | Name  | Description |
 | ----------- | -------------------- | ----------- |
-|-h           | Help                 | show this help message and exit |
-|-l           | Localization {1,2,3} | localization between [1:Djibouti, 2:Luxembourg, 3:Oma] |
+|-h           | Help                 | Show this help message and exit |
+|-l           | Localization {1,2,3} | Localization between [1:Djibouti, 2:Luxembourg, 3:Oma] |
 |-ants        | Ant count            | Number of ants, default: same as quantity of coordinates |
 |-i           | Initial pheromone    | Initial pheromone value |
-|-e           | Evaporation rate     | EVAPAPORATION_RATE evaporation percentage by iteration |
+|-e           | Evaporation rate     | Evaporation percentage by iteration |
 |-a           | Alpha                | Increases pheromone weight on fitness calculation |
 |-b           | Betha                | Increases distance weight on fitness calculation |
 |-m           | Max iterations without optimization | Stop criterium, number of iterations in which the algorithm will try to optimize result |
