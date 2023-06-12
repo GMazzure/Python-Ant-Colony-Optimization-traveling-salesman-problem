@@ -4,8 +4,8 @@ import numpy as np
 
 
 class Ant:
-    """The Ant class is responsible for deciding it's path between all the possible alternatives,
-            it will trace it's own route based on the fitness matrix and distance matrix, it uses an
+    """The Ant class is responsible for deciding its path between all the possible alternatives,
+            it will trace its own route based on the fitness matrix and distance matrix, it uses an
             stochastic tournament to decide each step, any route could be taken, but there are some
             that have most weight
     """
