@@ -4,7 +4,7 @@
   *Travelling Salesman Problem*
 
 
-  ACO is a metaheuristic algorithm based on the natural skill of ant colonies to form routes to food source, when something worth taking is found they return to the colony dropping pheromone through its path.
+  ACO is a metaheuristic algorithm based on the natural skill of ant colonies to form routes to food sources, when something worth taking is found they return to the colony dropping pheromone through its path.
   
   In this implementation is given a set of coordinates in which form a country (Djibouti,Luxembourg and Oma), the problem is to trace a route passing through every coordinate without repeating and returning back to the start with the smallest distance possible, so this is an optimization problem.
   
